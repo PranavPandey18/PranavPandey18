@@ -69,20 +69,7 @@ An AI-powered tool built to detect and scan for viruses and malware.
 ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-00ff9f?style=for-the-badge&logo=icloud&logoColor=black)
 ![Cloud Security](https://img.shields.io/badge/Cloud%20Security-00ff9f?style=for-the-badge&logo=cloudflare&logoColor=black)
 
-<br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pranavpvr18&show_icons=true&theme=nord&hide_border=true&title_color=00ff9f&icon_color=00ff9f&text_color=c0caf5" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavpvr18&layout=compact&theme=nord&hide_border=true&title_color=00ff9f&text_color=c0caf5" alt="Top Languages" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=Pranavpvr18&theme=nord&hide_border=true&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
 
 ## 🏆 Trophies
 
