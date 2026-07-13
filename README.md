@@ -68,13 +68,13 @@ Contribution Graph
 
 # 🌐 Connect
 
-GitHub
+GitHub ---PranavPandey18
 
-LinkedIn
+LinkedIn ---  https://www.linkedin.com/in/pranav-pandey-680b682a7
 
-Instagram
+Instagram --- https://www.instagram.com/prana.vr18
 
-Email
+Email--- pandeypranav70198@gmail.com
 
 ---
 
