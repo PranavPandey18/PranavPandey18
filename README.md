@@ -5,6 +5,25 @@
     <img alt="Pranav Pandey Banner" src="./dark.svg" width="100%">
   </picture>
 </p>
+<p align="center">
+  <picture>
+    <!-- Dark Mode -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/PranavPandey18/PranavPandey18/main/dark.svg">
+
+    <!-- Light Mode -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/PranavPandey18/PranavPandey18/main/light.svg">
+
+    <!-- Fallback -->
+    <img
+      alt="Pranav Pandey"
+      src="https://raw.githubusercontent.com/PranavPandey18/PranavPandey18/main/dark.svg"
+      width="100%">
+  </picture>
+</p>
 Pranav pandey  
 
 Typing taglines -- Cybersecurity developer or anylsit 
