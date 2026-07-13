@@ -68,7 +68,7 @@ Contribution Graph
 
 # 🌐 Connect
 
-GitHub ---PranavPandey18
+GitHub ---https://github.com/PranavPandey18
 
 LinkedIn ---  https://www.linkedin.com/in/pranav-pandey-680b682a7
 
