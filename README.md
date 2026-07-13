@@ -22,7 +22,7 @@ Cybersecurity Developer • Linux Enthusiast • Cloud Security Learner
 <img src="https://img.shields.io/github/stars/PranavPandey18?affiliations=OWNER&style=flat&color=00ff9f"/>
 </p>
 
----
+--------------------------------------------------------------------
 
 # 💻 About Me
 
@@ -33,7 +33,8 @@ Cybersecurity Developer • Linux Enthusiast • Cloud Security Learner
 - 🐍 Python Developer
 - 🚀 Building practical security tools and AI applications
 
----
+
+--------------------------------------------------------------------
 
 # 🚀 Featured Projects
 
@@ -42,9 +43,10 @@ Cybersecurity Developer • Linux Enthusiast • Cloud Security Learner
 - Mini Expenses Tracker
 - Smart Planner
 
-(Show all four GitHub cards)
 
----
+
+
+--------------------------------------------------------------------
 
 # ⚡ Tech Stack
 
@@ -68,7 +70,7 @@ Instagram --- https://www.instagram.com/prana.vr18
 
 Email--- pandeypranav70198@gmail.com
 
----
+--------------------------------------------------------------------
 
 <p align="center">
 Thanks for visiting ⭐
