@@ -50,21 +50,13 @@ Cybersecurity Developer • Linux Enthusiast • Cloud Security Learner
 
 Python • Linux • Networking • Git • Bash • GitHub • Cloud Security
 
-(Use Skill Icons)
 
----
 
-# 📊 GitHub Analytics
+--------------------------------------------------------------------
 
-GitHub Stats
 
-Top Languages
 
-GitHub Streak
-
-Contribution Graph
-
----
+--------------------------------------------------------------------
 
 # 🌐 Connect
 
