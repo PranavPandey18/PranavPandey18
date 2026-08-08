@@ -39,7 +39,7 @@ Cybersecurity Developer • Linux Enthusiast • Cloud Security Learner
 # 🚀 Featured Projects
 
 - AI Resume Builder
-- AI Virus & Malware Scanner
+-Safelink AI security scanner
 - Mini Expenses Tracker
 - Smart Planner
 
