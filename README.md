@@ -42,7 +42,7 @@ Cybersecurity Developer • Linux Enthusiast • Cloud Security Learner
 -Safelink AI security scanner
 - Mini Expenses Tracker
 - Smart Planner
-
+-- Eye Forege == a cyber securlity cli tool for pentester 
 
 
 
