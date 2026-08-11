@@ -21,10 +21,9 @@
 
 ### 🚀 Featured Projects
 
-- 🤖 **AI Resume Builder** — AI-assisted resume generation tool
-- 🛡️ **Safelink** — AI security scanner
-- 💰 **Mini Expenses Tracker** — Lightweight expense tracking web app
-- 🎯 **Eye Forge** — A cybersecurity CLI recon toolkit for pentesters (Kali/Parrot/Debian-based)
+- **AI Resume Builder** — AI-assisted resume generation tool
+-  **Safelink** — AI security scanner
+- **Eye Forge** — A cybersecurity CLI recon toolkit for pentesters (Kali/Parrot/Debian-based)
 
 ---
 
