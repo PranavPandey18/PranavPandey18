@@ -21,7 +21,6 @@
 
 ### 🚀 Featured Projects
 
-- **AI Resume Builder** — AI-assisted resume generation tool
 -  **Safelink** — AI security scanner
 - **Eye Forge** — A cybersecurity CLI recon toolkit for pentesters (Kali/Parrot/Debian-based)
 
