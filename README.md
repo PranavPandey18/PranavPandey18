@@ -73,10 +73,7 @@
 - 📌 **[PranavPandey18](https://github.com/PranavPandey18/PranavPandey18)** — Profile README repo
 - 🎯 **[Eye-Forge](https://github.com/PranavPandey18/Eye-Forge)** — Terminal-based cybersecurity reconnaissance & engagement-management toolkit built for Kali Linux, Parrot OS, and other Debian-based distributions · Python · MIT License
 - 🛡️ **[Safelink](https://github.com/PranavPandey18/Safelink)** — AI security scanner · TypeScript
-- 🤖 **[Ai-resume-builder](https://github.com/PranavPandey18/Ai-resume-builder)** — Lightweight web app to build clean, professional resumes using AI assistance · CSS
-- 💰 **[mini-Expenses-tracker-web-app](https://github.com/PranavPandey18/mini-Expenses-tracker-web-app)** — Demo of a mini expenses tracker web app · JavaScript
-
----
+-------
 
 ### 🌐 Connect With Me
 
